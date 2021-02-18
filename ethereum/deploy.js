@@ -2,7 +2,7 @@ const HdWalletProvider=require('truffle-hdwallet-provider');
 const Web3=require('web3');
 const compiledFactory=require('../ethereum/build/CampaignFactory.json');
 const provider=new HdWalletProvider(
-  'jeans toast bone embody tortoise trophy often amazing split into robust fortune',
+  '12 mnemonic phrase',
 
 'https://rinkeby.infura.io/v3/45662a3729fa43678d13b210e60dee48'
 );
